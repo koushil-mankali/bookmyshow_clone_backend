@@ -1,0 +1,37 @@
+{
+  "name": "bookmyshow_clone_backend",
+  "version": "1.0.0",
+  "description": "BookMyShow Backend Clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koushil-mankali/bookmyshow_clone_backend.git"
+  },
+  "keywords": [
+    "bookmyshow",
+    "bookmyshow_clone",
+    "bookmyshow",
+    "clone",
+    "movie",
+    "ticket",
+    "booking",
+    "project",
+    "nodejs",
+    "node",
+    "mongodb"
+  ],
+  "author": "koushil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koushil-mankali/bookmyshow_clone_backend/issues"
+  },
+  "homepage": "https://github.com/koushil-mankali/bookmyshow_clone_backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.4"
+  }
+}
